@@ -1,0 +1,73 @@
+Snack Expo import
+
+Repo’ni GitHub’dan Snack Expo’ga Import Git Repository orqali muvaffaqiyatli yukladingmi? ⬜ Ha / ⬜ Yo‘q
+
+🏠 Main Feed
+Kategoriya paneli
+
+Asosiy feed sahifasida kamida 10 ta kategoriya horizontal ko‘rinishda chiqadimi? ⬜ Ha / ⬜ Yo‘q
+
+Recipe detail page
+
+Recept tanlanganda quyidagilar ko‘rinadimi:
+
+⬜ Ingredientlar
+
+⬜ Instruktsiyalar
+
+⬜ Tayyorlash vaqti
+
+⬜ Porsiya soni
+
+⬜ Kaloriya
+
+⬜ Murakkablik darajasi
+
+Kategoriya filter
+
+Kategoriya bosilganda faqat shu kategoriya retseptlari chiqadimi? ⬜ Ha / ⬜ Yo‘q
+
+❤️ Favorites
+Heart icon toggle
+
+Recept yonida yurak belgisi bormi va bosilganda on/off bo‘ladimi? ⬜ Ha / ⬜ Yo‘q
+
+Favorites section
+
+Kamida 1 ta retseptni “Izbrannoye”ga qo‘shib, u to‘g‘ri ko‘rinadimi? ⬜ Ha / ⬜ Yo‘q
+
+🍳 My Recipes
+My Food panel
+
+Kategoriya panelida “Моя еда” mavjudmi va unda “Добавить новый рецепт” opsiyasi bormi? ⬜ Ha / ⬜ Yo‘q
+
+Add new recipe form
+
+Yangi retsept qo‘shishda quyidagilarni kiritish mumkinmi:
+
+⬜ Retsept nomi
+
+⬜ Rasm yuklash
+
+⬜ Ingredientlar ro‘yxati
+
+⬜ Step-by-step instruktsiya
+
+⬜ “Сохранить рецепт” tugmasi
+
+Recipe appears in My Recipes
+
+Yangi retsept “Мои рецепты” bo‘limida ko‘rinadimi? ⬜ Ha / ⬜ Yo‘q
+
+Recipe detail in My Recipes
+
+Retsept bosilganda to‘liq ma’lumot (nomi, rasm, ingredientlar, instruktsiya) chiqadimi? ⬜ Ha / ⬜ Yo‘q
+
+Edit/Delete buttons
+
+Har bir retseptda “Редактировать” va “Удалить” tugmalari bormi va ishlaydimi? ⬜ Ha / ⬜ Yo‘q
+
+🔙 Navigation
+Back button
+
+Foodie App’da ishlaydigan “Назад” tugmasi bormi? ⬜ Ha / ⬜ Yo‘q
